@@ -1,4 +1,4 @@
-# Mi-Globe-Queue-Builds
+# Mi-Globe-Pie-Builds
 
 This repository contains most of my queued builds for Mi Globe. 
 
